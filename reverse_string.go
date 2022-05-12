@@ -1,6 +1,5 @@
 package reverse_string
 import (
-	"fmt"
 	"strings"
 )
 func ReverseString(input string) (output string) {
